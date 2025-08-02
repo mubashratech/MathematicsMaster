@@ -1,73 +1,48 @@
-# Welcome to your Lovable project
+Master Mathematics
 
-## Project info
+Master Mathematics is an AI-powered learning platform designed to help students from Class 9 to 12 improve their mathematics skills through personalized tools, interactive flashcards, and adaptive assessments.
 
-**URL**: https://lovable.dev/projects/a2484c27-6095-4739-ac43-a29a3d3d6849
+🚀 Features
 
-## How can I edit this code?
+🧠 AI Flashcards (By Mubashra Afzal)
+Allows students to ask questions and get instant AI-generated responses.
 
-There are several ways of editing your application.
+Encourages peer-like discussion with smart doubt-solving.
 
-**Use Lovable**
+Designed for an intuitive learning experience using natural language input.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a2484c27-6095-4739-ac43-a29a3d3d6849) and start prompting.
+📝 AI Quiz Generator
+Dynamically generates quizzes based on the student’s class level and progress.
 
-Changes made via Lovable will be committed automatically to this repo.
+Adapts question difficulty based on performance.
 
-**Use your preferred IDE**
+Provides instant feedback and explanations.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+📅 Study Plan Generator
+Personalized study plans tailored to student goals and learning speed.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Tracks daily/weekly targets.
 
-Follow these steps:
+Recommends topics based on weak areas detected by the AI.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+📊 Progress Monitoring
+Visual dashboard to track quiz scores, time spent, and overall progress.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Insights to help students and teachers identify focus areas.
 
-# Step 3: Install the necessary dependencies.
-npm i
+🧑‍💻 Tech Stack
+Frontend: React.js, Tailwind CSS
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Backend/AI: Node.js, OpenAI API (or mock AI logic for demo)
 
-**Edit a file directly in GitHub**
+Version Control: Git + GitHub
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+👥 Team Members
 
-**Use GitHub Codespaces**
+Mubashra Afzal – AI Flashcard Developer (FAST NUCES CFD Campus)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Abdul Rafay Kalim – UI & Component Logic (FAST NUCES Karachi)
 
-## What technologies are used for this project?
+Mohammad Sohaib – Study Plan & Dashboard (FAST NUCES Karachi)
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a2484c27-6095-4739-ac43-a29a3d3d6849) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Muhammad Hassan – Quiz Generator Logic (COMSATS)
